@@ -1,0 +1,4 @@
+user-agent:*
+Allow: /
+Disallow: /admin
+Sitemap: https://hanescaferestaurantt.com/sitemap.xml

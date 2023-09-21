@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://hanescaferestaurantt.com/</loc>
+    <lastmod>2021-11-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanescaferestaurantt.com/index.htm</loc>
+    <lastmod>2021-11-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanescaferestaurantt.com/hakkimizda/index.htm</loc>
+    <lastmod>2021-11-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanescaferestaurantt.com/menu/index.php</loc>
+    <lastmod>2021-11-22</lastmod>
+    <changefreq>always</changefreq>
+    
+  </url>
+  <url>
+    <loc>https://hanescaferestaurantt.com/menu/tatlilar/index.php</loc>
+    <lastmod>2021-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanescaferestaurantt.com/menu/icecekler/index.php</loc>
+    <lastmod>2021-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanescaferestaurantt.com/iletisim/index.htm</loc>
+    <lastmod>2021-11-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
